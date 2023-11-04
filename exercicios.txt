@@ -1,0 +1,42 @@
+Claro! Aqui estão 50 exercícios em JavaScript que começam fáceis e gradualmente aumentam em dificuldade. Eles são adequados para serem executados no ambiente Node.js:
+
+Nível Fácil:
+
+1. Escreva um programa que imprime "Olá, Mundo!" no console.
+2. Crie uma função que soma dois números.
+3. Escreva um programa que verifica se um número é par ou ímpar.
+4. Crie um programa que calcule a área de um retângulo.
+5. Escreva uma função que inverte uma string.
+6. Implemente um programa que calcule a média de um array de números.
+7. Crie um programa que encontre o maior número em um array.
+8. Escreva uma função que conte o número de vogais em uma string.
+9. Implemente um programa que verifique se uma string é um palíndromo.
+10. Crie uma função que gere um número aleatório entre 1 e 100.
+
+Nível Intermediário:
+
+11. Escreva um programa que calcule o fatorial de um número.
+12. Implemente uma função que ordene um array de números.
+13. Crie um programa que remova elementos duplicados de um array.
+14. Escreva uma função que calcule a sequência de Fibonacci.
+15. Implemente um programa que verifique se um número é primo.
+16. Crie uma função que encontre o maior elemento em uma matriz.
+17. Escreva um programa que conte o número de palavras em uma string.
+18. Implemente uma função que realize uma busca binária em um array ordenado.
+19. Crie um programa que embaralhe as letras de uma palavra.
+20. Escreva uma função que retorne o menor múltiplo comum de dois números.
+
+Nível Avançado:
+
+21. Implemente um programa que converta um número decimal para binário.
+22. Crie uma função que calcule a raiz quadrada de um número.
+23. Escreva um programa que gere todos os subconjuntos de um conjunto.
+24. Implemente um algoritmo de ordenação personalizado, como o QuickSort.
+25. Crie uma função que encontre a soma de todos os números primos menores que um dado número.
+26. Escreva um programa que implemente uma árvore binária e realize a busca em largura.
+27. Implemente um programa que faça a busca em profundidade em um grafo.
+28. Crie uma função que calcule o mínimo múltiplo comum de vários números.
+29. Escreva um programa que resolva o problema da mochila (knapsack problem) usando programação dinâmica.
+30. Implemente um algoritmo de criptografia, como o algoritmo RSA.
+
+Esses exercícios devem fornecer um desafio progressivo à medida que você avança. Lembre-se de consultar a documentação do Node.js e pesquisar conforme necessário para resolver cada exercício. Divirta-se programando em JavaScript!
